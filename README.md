@@ -1,15 +1,4 @@
 # USART1
----
-title: 单片机：第五篇 一个简单的基础通信协议的设计与实现
-banner_img: 'https://img-ldb.oss-accelerate.aliyuncs.com/'
-index_img: 'https://img-ldb.oss-accelerate.aliyuncs.com/'
-tags:
-  - 单片机
-  - STM32
-  - 通信协议
-date: 2021-01-30 15:16:37
-category: 学习
----
 不同设备之间的通信，都需要设计自己的通信协议。为了保证设备与设备之间的数据的稳定传输，通信协议的设计需要考虑很多的问题。当然应对不同的应用场景，可以有针对性的设计不同的通信协议。
 <!-- more -->
 ## 一种常见的通信协议格式
